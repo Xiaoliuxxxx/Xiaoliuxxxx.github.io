@@ -1,0 +1,31 @@
+{
+  "name": "personal-blog",
+  "version": "1.0.0",
+  "keywords": [
+    "blog",
+    "vue",
+    "vue-press"
+  ],
+  "author": "liulei",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiaoliuxxxx/personal-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xiaoliuxxxx/personal-blog/issues"
+  },
+  "homepage": "https://github.com/Xiaoliuxxxx/personal-blog#readme",
+  "devDependencies": {
+    "vuepress": "1.5.0",
+    "vuepress-theme-reco": "1.5.5"
+  },
+  "dependencies": {
+    "vue-class-component": "^7.2.3"
+  },
+  "description": "liulei's personal blog"
+}
