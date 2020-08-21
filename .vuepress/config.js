@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/personal-blog/public/",
   title: "Xiaoliuxxxx",
   description: "Welcome to Xiaoliuxxxx's personal blog~ ",
   dest: "public",
